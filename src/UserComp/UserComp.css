@@ -1,0 +1,85 @@
+.greenBox {
+    background-color: honeydew;
+    border: solid;
+    border-radius: 25px;
+    border-color: green;
+    padding: 10px;
+    margin: 20px;
+}
+
+.redBox {
+    background-color: honeydew;
+    border: solid;
+    border-radius: 25px;
+    border-color: red;
+    padding: 10px;
+    margin: 20px;
+}
+
+.userTextDiv {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    text-align: left;
+}
+
+input.yellowButton {
+    background-color: #f2d858;
+    border: 2px solid #6b5d19;
+    border-radius: 10px;
+    color: rgb(52, 38, 8);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input.yellowButton:hover { background-color: #dcc44e; }
+input.yellowButton:active { background-color: #f6e075; }
+
+input.greyButton {
+    background-color: #aeadad;
+    border: 2px solid #4e4e4e;
+    border-radius: 10px;
+    color: rgb(52, 38, 8);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input.greyButton:hover { background-color: #9a9999; }
+input.greyButton:active { background-color: #cccccc; }
+
+input.blueButton {
+    background-color: #58c4f2;
+    border: 2px solid #19606b;
+    border-radius: 10px;
+    color: rgb(8, 19, 52);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input.blueButton:hover { background-color: #3abbf2; }
+input.blueButton:active { background-color: #7ad0f5; }
+
+.clearButton {
+    background-color: transparent;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}

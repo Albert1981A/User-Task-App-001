@@ -1,0 +1,17 @@
+.boxDiv {
+    background-color: honeydew;
+    border: solid;
+    border-radius: 45px;
+    border-color: blue;
+    padding: 10px;
+    margin: 25px;
+}
+
+.boxDiv2 {
+    overflow-y: scroll;
+    height: 400px; 
+    padding: 10px;
+}
+
+
+

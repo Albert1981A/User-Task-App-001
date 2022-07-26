@@ -1,0 +1,33 @@
+.boxDiv3 {
+    background-color: beige;
+    border: solid;
+    border-radius: 45px;
+    border-color: blue;
+    padding: 10px;
+    margin: 25px;
+}
+
+.boxDiv4 {
+    overflow-y: scroll;
+    height: 175px; 
+    padding: 10px;
+}
+
+.boxDiv5 {
+    background-color: rgb(192, 201, 217);
+    border: solid;
+    border-radius: 15px;
+    border-color: rgb(55, 55, 85);
+    padding: 10px;
+    margin: 10px;
+}
+
+.greyBox {
+    text-align: left;
+    background-color: honeydew;
+    border: solid;
+    border-radius: 7px;
+    border-color: darkslategrey;
+    padding: 15px;
+    margin: 7px;
+}
